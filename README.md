@@ -13,7 +13,7 @@
 
 | # | Проект | Маршрут | Стек |
 |---|--------|---------|------|
-| 1 | [Enterprise Ecommerce](https://github.com/Kotinger/Enterprise-Eсommerce) | продажи · клиенты · продукт · fraud / churn · ML | Python → MySQL → Power BI → ML |
+| 1 | [Enterprise Ecommerce](https://github.com/Kotinger/Enterprise-Ecommerce) | продажи · клиенты · продукт · fraud / churn · ML | Python → MySQL → Power BI → ML |
 | 2 | [Online Retail II](https://github.com/Kotinger/Online-Retail) | продажи · клиенты (repeat, когорты, RFM) | Python → MySQL → Streamlit |
 | 3 | [Clothing Store Sales](https://github.com/Kotinger/Clothing-Store-Sales) | продажи · клиенты · подписки | Python → MySQL → Power BI |
 | 4 | [Ecommerce Sales Transactions](https://github.com/Kotinger/Ecommerce-Sales-Transactions) | продажи (GMV, AOV, region, месяцы) | Python → MySQL → Power BI |
