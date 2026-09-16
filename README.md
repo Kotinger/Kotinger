@@ -2,7 +2,6 @@
 
 **Ищу работу/стажировку и интересные проекты для портфолио!**
 
-**Образование : высшее (закончил аспирантуру в 2023 г., очная форма) по направлению ИВТ**
 
 **Стек:** Python (pandas / scikit-learn / Streamlit) · MySQL · Power BI
 
@@ -16,7 +15,8 @@
 |---|--------|-------|------|--------|
 | 1 | [Marketing A/B Testing](https://github.com/Kotinger/Marketing-AB-Testing) | ads vs PSA, converted + total ads | Python → MySQL → Power BI | готово |
 | 2 | [Grocery Website A/B Testing](https://github.com/Kotinger/Grocery-website-AB-Testing) | кнопка download vs ссылка, CTR | Python → MySQL → Power BI | готово |
-| 3 | Cookie Cats | gate_30 vs gate_40, D1/D7 retention | Python → MySQL → Power BI | в планах |
+| 3 | [EmailAnalytics A/B/C Testing](https://github.com/Kotinger/EmailAnalytics-ABC-Testing) | email Mens / Womens / No Email| Python → MySQL → Power BI | готово |
+| 4 | Cookie Cats | gate_30 vs gate_40, D1/D7 retention | Python → MySQL → Power BI | в планах |
 
 ### 2. Аналитика
 
@@ -26,8 +26,9 @@
 | 2 | [Online Retail II](https://github.com/Kotinger/Online-Retail) | продажи · клиенты | Python → MySQL → Streamlit | готово |
 | 3 | [Clothing Store Sales](https://github.com/Kotinger/Clothing-Store-Sales) | продажи · клиенты · подписки | Python → MySQL → Power BI | готово |
 | 4 | [Ecommerce Sales Transactions](https://github.com/Kotinger/Ecommerce-Sales-Transactions) | продажи | Python → MySQL → Power BI | готово |
-| 5 | Dunnhumby | тяжёлый retail: JOIN, baskets, promo, RFM | Python → MySQL → Power BI | в планах |
-| 6 | Fraudulent E-commerce | fraud / risk, большой объём + ML | Python(+ML) → MySQL → Power BI | в планах |
+| 5 | [ESuperStore Sales Analytics](https://github.com/Kotinger/SuperStore-Sales-Analytics) | продажи· клиенты · продукт | Python → MySQL → Power BI | готово |
+| - | Dunnhumby | тяжёлый retail: JOIN, baskets, promo, RFM | Python → MySQL → Power BI | в планах |
+| - | Fraudulent Ecommerce | fraud / risk, большой объём + ML | Python(+ML) → MySQL → Power BI | в планах |
 
 ### 3. Воронки
 
@@ -37,7 +38,6 @@
 
 ---
 
-**Добавить в арсенал:** ClickHouse 
 
 ## Контакты
 
