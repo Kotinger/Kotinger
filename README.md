@@ -34,7 +34,7 @@
 
 | # | Проект | О чём | Стек | Статус |
 |---|--------|-------|------|--------|
-| 1 | Ecommerce events history | воронка view → cart → purchase | Python → MySQL → Power BI | в планах |
+| 1 | [Ecommerce events history](https://github.com/Kotinger/Ecommerce-events-history) | воронка view → cart → purchase | Python → MySQL → Power BI | в процессе |
 
 ---
 
