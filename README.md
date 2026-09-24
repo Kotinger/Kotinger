@@ -18,7 +18,14 @@
 | 3 | [EmailAnalytics A/B/C Testing](https://github.com/Kotinger/EmailAnalytics-ABC-Testing) | email Mens / Womens / No Email| Python → MySQL → Power BI | готово |
 | 4 | Cookie Cats | gate_30 vs gate_40, D1/D7 retention | Python → MySQL → Power BI | в планах |
 
-### 2. Аналитика
+### 2. Воронки
+
+| # | Проект | О чём | Стек | Статус |
+|---|--------|-------|------|--------|
+| 1 | [Ecommerce events history](https://github.com/Kotinger/Ecommerce-events-history) | воронка view → cart → purchase | Python → MySQL → Power BI | в процессе |
+| 2 | Ecommerce Funnel | воронка  | Python → MySQL → Power BI | в планах |
+
+### 3. Аналитика
 
 | # | Проект | О чём | Стек | Статус |
 |---|--------|-------|------|--------|
@@ -29,12 +36,6 @@
 | 5 | [ESuperStore Sales Analytics](https://github.com/Kotinger/SuperStore-Sales-Analytics) | продажи· клиенты · продукт | Python → MySQL → Power BI | готово |
 | - | Dunnhumby | тяжёлый retail: JOIN, baskets, promo, RFM | Python → MySQL → Power BI | в планах |
 | - | Fraudulent Ecommerce | fraud / risk, большой объём + ML | Python(+ML) → MySQL → Power BI | в планах |
-
-### 3. Воронки
-
-| # | Проект | О чём | Стек | Статус |
-|---|--------|-------|------|--------|
-| 1 | [Ecommerce events history](https://github.com/Kotinger/Ecommerce-events-history) | воронка view → cart → purchase | Python → MySQL → Power BI | в процессе |
 
 ---
 
