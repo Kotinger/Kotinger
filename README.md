@@ -23,7 +23,7 @@
 | # | Проект | О чём | Стек | Статус |
 |---|--------|-------|------|--------|
 | 1 | [Ecommerce events history](https://github.com/Kotinger/Ecommerce-events-history) | воронка view → cart → purchase | Python → MySQL → Power BI | готово |
-| 2 | Ecommerce Funnel | воронка  | Python → MySQL → Power BI | в планах |
+| 2 | [Ecommerce Funnel](https://github.com/Kotinger/Ecommerce-Funnel) **взял все 5 месяцев, на текущий момент самый большой проект по анализу** | воронка  | Python → MySQL → Power BI | в процессе |
 
 ### 3. Аналитика
 
